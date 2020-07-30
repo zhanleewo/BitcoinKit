@@ -130,8 +130,8 @@ public class BTCTestnet: Testnet {
     override public var dnsSeeds: [String] {
         return [
             "testnet-seed.bitcoin.jonasschnelli.ch", // Jonas Schnelli
-            "testnet-seed.bluematt.me",              // Matt Corallo
             "testnet-seed.bitcoin.petertodd.org",    // Peter Todd
+            "testnet-seed.bluematt.me",              // Matt Corallo
             "testnet-seed.bitcoin.schildbach.de",    // Andreas Schildbach
             "bitcoin-testnet.bloqseeds.net"         // Bloq
         ]
